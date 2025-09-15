@@ -1,0 +1,23 @@
+{
+  "name": "practice-writing-unittests-naveena-polineni",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naveenapolineni05/practice-writing-unitTests-Naveena-Polineni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Naveenapolineni05/practice-writing-unitTests-Naveena-Polineni/issues"
+  },
+  "homepage": "https://github.com/Naveenapolineni05/practice-writing-unitTests-Naveena-Polineni#readme",
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
